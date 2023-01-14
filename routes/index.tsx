@@ -10,16 +10,14 @@ export default function Home() {
       </Head>
       {/*max-w-screen-lg*/}
       <Navbar  />
-      <div class="p-4 bg-red-200 bg-opacity-20 flex flex-wrap mx-auto w-3/4">
-    <div class="my-6 h-10 w-1/2 text-4xl">
+      <div class="p-4 gap-10 bg-red-200 bg-opacity-20 flex flex-wrap mx-auto w-3/4">
+    <div class="my-6 h-10 w-5/12 text-4xl">
         <h1 >
-          Some sort of title
+          Connor Griffin 
         </h1>
-        <h3 class="mt-5 text-lg"> description asdfasadfasdfasdfasdfasdfasdf 
-        asdfasdfsadf asdfasdf asdfasd fasdf asdfsadf asdfasdfasdfasdf asdf
-        sdfasdfasdfasdfasdfasdfasdfasdfasdfasdf</h3> 
+        <h3 class="mt-5 text-lg"> I do the school and the code and the yes</h3> 
         </div>
-        <div class='bg-blue-900 w-1/2 h-1/4'> add something like logo idk</div>
+        <div class='bg-blue-900 w-5/12 h-1/4'> add something like logo idk</div>
        
         
         
